@@ -1,4 +1,4 @@
-//Written by Khang Pham at LSU 
+//Written by Khang Pham at LSU  
 
 ///////////////////////////////////////////////////////////////
 //This program can be used to solve a 2D Schrodinger Equation//
